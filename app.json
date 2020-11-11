@@ -1,0 +1,27 @@
+{
+  "name": "GDriveUploaderBot",
+  "description": "Telegram bot To upload Files To Google Drive Remotely",
+  "repository": "https://github.com/kirodewal/GdriveUploaderbot",
+  "logo": "https://telegra.ph/file/8669281aa2360613f7511.jpg",
+  "keywords": ["Telegram", "Google Drive", "uploader"],
+  "env": {
+    "ENV": {
+      "description": "Set it to anything to enable configuration by environment variables.",
+      "value": "ANYTHING"
+    },
+    "BOT_TOKEN": {
+      "description": "Get it from @BotFather"
+    }
+  },
+   "addons": [{
+    "plan": "heroku-postgresql"
+  }],
+   "buildpacks": [
+    {
+      "url": "heroku/python"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }
+  ]
+}
