@@ -7,7 +7,7 @@ MEGA_EMAIL = "bearyan8@yandex.com"
 MEGA_PASSWORD = "bearyan8@yandex.com"
 
 
-START = " Hi {}  \n I am GDrive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Check update info /update \n\n For More Bots Join  \n <a href ='https://t.me/HXBots'>HXBots</a>\nPlease Report Bugs  @@HxBots_Support"
+START = " Hi {}  \n I am GDrive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Check update info /update \n\n For More Bots Join  \n <a href ='https://t.me/HXBots'>HXBots</a>\nPlease Report Bugs @HxBots_Support"
 
 HELP = """"<b>AUTHORISE BOT</b> 
        Use  /auth Command Generate
@@ -30,7 +30,7 @@ HELP = """"<b>AUTHORISE BOT</b>
             
             + More On Its way:)
                 
-Bug Report @HxBots_Support""""
+   Bug Report @HxBots_Support""""
         
 DP_DOWNLOAD = "Dropbox Link !! Downloading Started ..."
 OL_DOWNLOAD = "Openload Link !! Downloading Started ... \n Openload Links Are Extremely Slow"
@@ -55,14 +55,14 @@ DROPBOX = True
 MEGA = True
 
 
-UPDATE = """ <b> Update  on  27.10.2020</b>
+UPDATE = """ <b> Update  on  12.11.2020</b>
             * MEGA LINK added
             * Error Handling Improved
 
 <b> Links Supported By Bot</b>
             * Direct Links 
             * Openload links [Max Speed 
-              500 KBps :(   ]
+              1.7 MBps :(   ]
             * Dropbox links 
             *  Mega links (only files)
             
