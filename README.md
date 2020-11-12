@@ -33,6 +33,10 @@
  It Can Upload Your Direct and Supported links into Google Drive.
 
  ```
+### Installation
+### The Easiest Way🦁
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### Install Module 
 ```
   sudo pip3 install -r requirements.txt
