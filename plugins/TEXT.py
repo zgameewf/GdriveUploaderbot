@@ -28,7 +28,8 @@ HELP = """"<b>AUTHORISE BOT</b>
             * Dropbox links 
             *  Mega links
             
-            + More On Its way:)""""
+            + More On Its way:)
+  Bug Report @Kirodewal
         
 DP_DOWNLOAD = "Dropbox Link !! Downloading Started ..."
 OL_DOWNLOAD = "Openload Link !! Downloading Started ... \n Openload Links Are Extremely Slow"
