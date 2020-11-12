@@ -7,7 +7,7 @@ MEGA_EMAIL = "bearyan8@yandex.com"
 MEGA_PASSWORD = "bearyan8@yandex.com"
 
 
-START = " Hi {}  \n I am GDrive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Check update info /update \n\n For More Bots Join  \n <a href ='https://t.me/HXBots'>HXBots</a>\nPlease Report Bugs @HxBots_Support"
+START = "Hi {}  \n I am GDrive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Check update info /update \n\n For More Bots Join  \n <a href ='https://t.me/HXBots'>HXBots</a>\nPlease Report Bugs @HxBots_Support"
 
 HELP = """"<b>AUTHORISE BOT</b> 
        Use  /auth Command Generate
