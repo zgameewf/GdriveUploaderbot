@@ -14,3 +14,4 @@ class MegaRequestException(MegaException):
     There was an error in the request.
     """
     pass
+
