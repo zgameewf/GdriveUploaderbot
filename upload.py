@@ -96,3 +96,4 @@ def upload(filename: str, update, context, parent_folder: str = None) -> None:
     })
         
     return file_to_upload['webContentLink']
+
